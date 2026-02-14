@@ -8,15 +8,15 @@ Data is fetched in real-time from the [Fake Store API](https://fakestoreapi.com/
 
 | Home | Dark Mode | Loading |
 |:---:|:---:|:---:|
-| ![Home](../images/home.png) | ![Dark Mode](../images/home_darkmode.png) | ![Loading](../images/home_loading.png) |
+| ![Home](images/home.png) | ![Dark Mode](images/home_darkmode.png) | ![Loading](images/home_loading.png) |
 
 | Product Detail | Product Loading | Category Filter |
 |:---:|:---:|:---:|
-| ![Product Detail](../images/product_details.png) | ![Product Loading](../images/product_loading.png) | ![Category](../images/category.png) |
+| ![Product Detail](images/product_details.png) | ![Product Loading](images/product_loading.png) | ![Category](images/category.png) |
 
 | Sort / Filter | Cart | Empty Cart |
 |:---:|:---:|:---:|
-| ![Filter](../images/filter.png) | ![Cart](../images/cart.png) | ![Empty Cart](../images/cart_empty.png) |
+| ![Filter](images/filter.png) | ![Cart](images/cart.png) | ![Empty Cart](images/cart_empty.png) |
 
 ## ✨ Features
 
